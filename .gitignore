@@ -1,0 +1,29 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# npm
+node_modules
+*.log
+*.gz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tests
+myFile1.js
+myFile2.json
+myFile3.txt

@@ -1,0 +1,16 @@
+{
+  "name": "multi-file-loader",
+  "version": "1.0.1",
+  "license": "MIT",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/live.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Slyke/Multi-File-Loader.git"
+  },
+  "homepage": "https://github.com/Slyke/Multi-File-Loader",
+  "author": "Steven Lawler"
+}
